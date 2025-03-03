@@ -1,5 +1,5 @@
 import './App.css';
-import BasketballInfo from './CollegeBasketballTeams.json';
+import BasketballInfo from './CollegeBasketballTeams.json'; // Json file
 
 // Header component
 function Header() {
@@ -56,6 +56,7 @@ function TeamList() {
 }
 
 function App() {
+  // This is the function that will return everything on the main page
   return (
     <>
       <Header />
