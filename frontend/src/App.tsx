@@ -6,7 +6,7 @@ function Header() {
   return (
     <>
       <h1>Welcome to March Madness</h1>
-      <h4>This lists out information about colleges in NCAA Basketball</h4>
+      <h4>This page lists out information about colleges in NCAA Basketball</h4>
     </>
   );
 }
